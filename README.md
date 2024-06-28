@@ -1,1 +1,1 @@
-## изменения из лок-го репозит-я
+## changes from local repository
